@@ -11,7 +11,7 @@ function App() {
     <header>  
       <div className="bg-img-box">
         <img
-          src="/imagesFor-i18next/slider-left-dec.png"
+          src="/images/slider-left-dec.png"
           alt="bg img "
           className="bg-img"
         />
@@ -21,7 +21,7 @@ function App() {
         <nav className="navbar">
           <div className="navbar-logo-box">
             <img
-              src="/imagesFor-i18next/logo.png"
+              src="/images/logo.png"
               alt="logo site"
               className="navbar-log-img"
             />
@@ -65,7 +65,7 @@ function App() {
       <div className="header-content u-container">
         <div className="header-right-content">
           <img
-            src="/imagesFor-i18next/slider-dec.png"
+            src="/images/slider-dec.png"
             alt="bg img"
             className="header-right-content-img"
           />
