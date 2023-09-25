@@ -10,9 +10,10 @@ import {
  
 function Courses() {
   const [title, setTitle] = useState("");
+  
   const [price, setPrice] = useState("");
 
-  const {
+  const {  
     data,
     isLoading,
     error,
