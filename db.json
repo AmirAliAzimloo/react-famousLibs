@@ -1,0 +1,117 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Js Expert",
+      "price": "Free"
+    },
+    {
+      "id": 2,
+      "title": "React Expert",
+      "price": 4200000
+    },
+    {
+      "id": 3,
+      "title": "Nodejs Expert",
+      "price": 4500000
+    },
+    {
+      "id": 4,
+      "title": "React 20 Libs",
+      "price": 600000
+    },
+    {
+      "id": 5,
+      "title": "PHP Expert",
+      "price": 600000
+    },
+    {
+      "id": 6,
+      "title": "Py Expert",
+      "price": 600000
+    },
+    {
+      "id": 7,
+      "title": "Laravel Expert",
+      "price": 600000
+    },
+    {
+      "id": 8,
+      "title": "Css",
+      "price": 600000
+    },
+    {
+      "id": 9,
+      "title": "Html",
+      "price": 600000
+    },
+    {
+      "id": 10,
+      "title": "Tailwind",
+      "price": 600000
+    },
+    {
+      "id": 11,
+      "title": "Bootstrap",
+      "price": 600000
+    },
+    {
+      "id": 12,
+      "title": "Mui",
+      "price": 600000
+    },
+    {
+      "id": 13,
+      "title": "Bulma",
+      "price": 600000
+    },
+    {
+      "id": 14,
+      "title": "HBS",
+      "price": 600000
+    },
+    {
+      "id": 15,
+      "title": "Ejs",
+      "price": 600000
+    },
+    {
+      "id": 16,
+      "title": "Angular",
+      "price": 600000
+    },
+    {
+      "title": "",
+      "price": "",
+      "id": 17
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "title": "Vue Vs React"
+    },
+    {
+      "id": 2,
+      "title": "Flutter Vs React Native"
+    },
+    {
+      "id": 3,
+      "title": "Express Vs Nest.js"
+    },
+    {
+      "id": 4,
+      "title": "Js Tips"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
